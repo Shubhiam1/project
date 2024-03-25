@@ -1,0 +1,13 @@
+    <!--  Author Name: Shubham Bhardwaj.
+                        
+**Database Name: code_camp_bd_fos**
+
+**Developed by Shubham Bhardwaj**
+
+**Recommended PHP Version 5.6, 7.4**
+
+
+**Admin Login Details**
+
+Username: Admin
+Password: Shubham
